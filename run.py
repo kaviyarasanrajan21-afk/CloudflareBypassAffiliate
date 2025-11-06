@@ -28,12 +28,7 @@ DEFAULT_CONFIG = {
     "DELAY_BETWEEN_BATCHES": 1, # Increased from 5 to 10
     "HEADLESS": False,
     "URL_LIST": [
-        'https://cikgumall.com/aff/4717',
-        'https://cikgumall.com/product/estana-kunafa-pistacio-bar-coklat-viral-108g-with-cooler-box/aff/B032320025',
-        'https://cikgumall.com/aff/B032320066',
-        'https://cikgumall.com/product/premium-lite-edition-brownies-cookies-cocoa-bakes/aff/utemB032320026',
-        'https://cikgumall.com/product/ryverra-panned-chocolate-40g/aff/B032320028'
-
+        'https://cikgumall.com/product/estana-bar-chocolate-45g/aff/Kavi'
     ]
 }
 
@@ -344,3 +339,4 @@ def main():
 
 if __name__ == '__main__':
     exit(main())
+
